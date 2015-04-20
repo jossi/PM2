@@ -65,6 +65,9 @@
   "vizion" : {
     "type": "boolean"
   },
+  "rawLogs" : {
+    "type": "boolean"
+  },
   "autorestart" : {
     "type": "boolean"
   },
